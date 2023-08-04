@@ -1,7 +1,7 @@
 About
 =========
 
-The simple project is web3 version the app https://www.kickstarter.com/.
+The simple project using web3 version the app https://www.kickstarter.com/.
 
 Technologies:
 ==============
